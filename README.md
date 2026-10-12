@@ -77,6 +77,9 @@ Key fields include:
 - `LEGO_Set_Explorer.pbix` — Power BI report containing the complete dashboard, data model, DAX measures, and interactive components.
 - `images/lego-set-finder.png` — Preview of the main LEGO Set Finder page.
 - `images/set-explorer.png` — Preview of the supplementary Set Explorer page.
+- `data/lego_sets.csv` — Lego sets data.
+- `data/lego_sets_data_dictionary.csv` — Lookup table for dataset column descriptions.
+
 
 ## Project Context
 
